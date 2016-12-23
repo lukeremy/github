@@ -9,7 +9,7 @@ Student teams (3) must collaborate using Git to write code to translate ‘Hello
 
 Teacher contains repo with the following:
 
-* `countries.csv` - list of available countries   
+* `countries.csv`  
 *  `hello_world_translations` - ‘Hello world’ translations in several languages taken from [Webucator](https://www.webucator.com/blog/2010/03/saying-hello-world-in-your-language-using-javascript/)   
 *  `language_dict` - dictionary of country : language pairs taken from [CIA Factbook](https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html)    
 *  `languages.csv` - list of available languages (identical to languages from language_dict)    
