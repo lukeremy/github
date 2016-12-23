@@ -30,3 +30,4 @@ All students clone repo, then collaborate on tasks below:
 * Write `answer_key_dict`, include teamIDs. Will eventually add the following for each team: target_country, # of instances of 'Hello world', and correct translation.   
 * Write randomizer function that allows teacher to randomly select country from `countries.csv`. Possible countries must be restricted to languages included in `hello_world_translations` Output will be unique `target_country` for each team and updated `answer_key_dict` with `target_country`
 * Write function that randomly imports x +/- y instances of 'Hello world' into `shakespeare.txt`. Ideally, includes multiple versions, e.g., 'hello world', 'HELLO WORLD', 'Hello World', etc. Output should include new text file with teamID and updated `answer_key_dict` with # of instances of 'Hello world'    
+* Create teacher version of function that takes specific input from students and outputs whether their response is correct or not.   

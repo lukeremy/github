@@ -20,7 +20,7 @@ Teacher contains repo with the following:
 All students clone repo, then collaborate on tasks below:
 
 *  Student1 - write code to find index and number of instances of 'Hello world' from `shakespeare.txt`   
-*  Student2 - write code to identify correct language to extract from l`anguages.csv` based on `target_country`    
+*  Student2 - write code to identify correct language to extract from `languages.csv` based on `target_country`    
 *  Student3 - write code to translate 'Hello world' into language for `target_country` & write output & # of instances of ‘Hello world’ to new `answer.txt` in repo    
 *  Any student - writes `function.py` that takes input `answer.txt` and outputs correct translation x times for # of instances of 'Hello world' using `answer_key_dict `   
 *  Students run comparison `function.py` output to teacher version of function
